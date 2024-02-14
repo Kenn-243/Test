@@ -13,6 +13,8 @@ public class Main {
 		}else {
 			System.out.println("Bukan 5");
 		}
+		
+		int a = 1;
 	}
 
 }
